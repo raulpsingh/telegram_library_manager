@@ -5,7 +5,7 @@ from src.book import Book
 import os
 
 # Получение пути к файлу относительно текущей директории
-file_path = os.path.join(os.getcwd(),'..', 'data', 'books.json')
+
 
 
 # Теперь используйте file_path для открытия или записи в файл
